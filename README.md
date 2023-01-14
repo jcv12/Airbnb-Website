@@ -11,8 +11,6 @@
     <img src="https://img.shields.io/github/last-commit/jcv12/Airbnb-Website" >
     <img src="https://img.shields.io/badge/license-Academic-brightgreen" >
   </p>
-
-  <p align="center"><a href="https://www.buymeacoffee.com/jcv12"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jcv12" /></a></p><br><br>
     
   ## Description
   This is a simple website designed and created by me to allow for visitors of my clients airbnbs in orlando. My goal is to use the least amount of technology to create a visually pleasing website.
@@ -22,10 +20,7 @@
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
   - [Contributing](#contributing)
-  - [Tests](#tests)
   - [Questions](#questions)
 
   ## Installation
